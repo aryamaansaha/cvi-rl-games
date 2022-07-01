@@ -1,0 +1,4 @@
+{'Algorithm': 'DuelingDQN', 'Trial': 1, 'Best Score': -68.58, 'Best at': 693, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 0.0005, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'ClippedDoubleDQN', 'Trial': 2, 'Best Score': -82.13, 'Best at': 946, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'fc1_dims': 256, 'fc2_dims': 512, 'max_size': 10000, 'batch_size': 64}}
+

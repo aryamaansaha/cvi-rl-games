@@ -1,0 +1,6 @@
+{'Algorithm': 'DQN', 'Trial': 1, 'Best Score': -109.71, 'Best at': 311, 'Trained till': 311, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'DuelingDQN', 'Trial': 2, 'Best Score': -109.83, 'Best at': 325, 'Trained till': 325, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'ClippedDoubleDQN', 'Trial': 3, 'Best Score': -109.76, 'Best at': 660, 'Trained till': 660, 'hyperparams': {'gamma': 0.99, 'lr': 0.0001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 0.0005, 'fc1_dims': 256, 'fc2_dims': 512, 'max_size': 10000, 'batch_size': 64}}
+

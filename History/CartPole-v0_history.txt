@@ -1,0 +1,10 @@
+{'Algorithm': 'DQN', 'Trial': 1, 'Best Score': 195.79, 'Best at': 963, 'Trained till': 963, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'DuelingDQN', 'Trial': 2, 'Best Score': 195.34, 'Best at': 886, 'Trained till': 886, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'DuelingDQN', 'Trial': 3, 'Best Score': 195.31, 'Best at': 938, 'Trained till': 938, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'hard', 'tau': None, 'tn_replace_rate': 1000, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'DuelingDQN', 'Trial': 4, 'Best Score': 195.15, 'Best at': 325, 'Trained till': 325, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 0.0005, 'tn_update_mode': 'soft', 'tau': 0.01, 'tn_replace_rate': None, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
+{'Algorithm': 'DuelingDQN', 'Trial': 5, 'Best Score': 179.43, 'Best at': 997, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 0.0005, 'tn_update_mode': 'hard', 'tau': None, 'tn_replace_rate': 1000, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
+
