@@ -1,0 +1,2 @@
+{'Algorithm': 'REINFORCE', 'Trial': 1, 'Best Score': 475.28, 'Best at': 696, 'Trained till': 696, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'fc1_dims': 128, 'fc2_dims': 128}}
+

@@ -2,3 +2,5 @@
 
 {'Algorithm': 'ClippedDoubleDQN', 'Trial': 2, 'Best Score': -82.13, 'Best at': 946, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'fc1_dims': 256, 'fc2_dims': 512, 'max_size': 10000, 'batch_size': 64}}
 
+{'Algorithm': 'REINFORCE', 'Trial': 3, 'Best Score': -101.18, 'Best at': 771, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'fc1_dims': 128, 'fc2_dims': 128}}
+

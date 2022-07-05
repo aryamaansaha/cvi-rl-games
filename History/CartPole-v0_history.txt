@@ -8,3 +8,5 @@
 
 {'Algorithm': 'DuelingDQN', 'Trial': 5, 'Best Score': 179.43, 'Best at': 997, 'Trained till': 1000, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 0.0005, 'tn_update_mode': 'hard', 'tau': None, 'tn_replace_rate': 1000, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
 
+{'Algorithm': 'REINFORCE', 'Trial': 6, 'Best Score': 195.12, 'Best at': 437, 'Trained till': 437, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'fc1_dims': 128, 'fc2_dims': 128}}
+

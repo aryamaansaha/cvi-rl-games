@@ -4,3 +4,5 @@
 
 {'Algorithm': 'DuelingDQN', 'Trial': 3, 'Best Score': -51.04105324506477, 'Best at': 347, 'Trained till': 449, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'epsilon_init': 1, 'epsilon_min': 0.01, 'epsilon_rate': 5e-05, 'tn_update_mode': 'hard', 'tau': None, 'tn_replace_rate': 1000, 'fc1_dims': 256, 'fc2_dims': 512, 'fc3_dims': 128, 'max_size': 10000, 'batch_size': 64}}
 
+{'Algorithm': 'REINFORCE', 'Trial': 4, 'Best Score': 194.68822593222947, 'Best at': 1405, 'Trained till': 2250, 'hyperparams': {'gamma': 0.99, 'lr': 0.001, 'fc1_dims': 128, 'fc2_dims': 128}}
+
